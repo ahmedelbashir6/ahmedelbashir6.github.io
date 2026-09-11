@@ -1,0 +1,12 @@
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.boldred {
+    color: red;
+    font-weight: bold;
+}
